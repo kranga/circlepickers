@@ -1,0 +1,17 @@
+size(x, y)
+position(x, y)
+circleWidth(x)
+numSlots
+slotText[strings]
+slotPositions[theta]
+ballSize(x)
+ballPosition(theta)
+
+getPosition()
+{
+	return theta;
+}
+
+
+setPosition: function(theta) {
+}

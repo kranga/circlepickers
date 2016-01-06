@@ -1,0 +1,10 @@
+{
+	"id": "com.palm.app.integerpicker3",
+	"version": "1.0.0",
+	"vendor": "enyo",
+	"type": "web",
+	"main": "index.html",
+	"title": "IntegerPicker TestBed",
+	"icon": "icon.png",
+	"uiRevision": 2
+}

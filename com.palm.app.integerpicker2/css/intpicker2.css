@@ -1,0 +1,64 @@
+.integer-picker1 {
+	width: 100%;
+	height: 100%;
+}
+
+.half-circle-text {
+	margin-bottom: 1rem;
+}
+
+.ball {
+	background-image:url(../images/Ball.png);
+	width: 38px;
+	height: 37px;
+	opacity: 1;
+	-webkit-transition: opacity 0.33s linear;
+	position: absolute;
+	top: 1px;
+	left: 50%;
+	/*	background-repeat: no-repeat no-repeat;
+		background-position: center center;
+		background-size: 100px;*/	
+	
+}
+
+.circle {
+	background-image:url(../images/Circle.png);	
+	width: 232px;
+	height: 232px;
+/*	width: 100%;
+	height: 100%;*/
+	position: relative;
+/*	background-repeat: no-repeat no-repeat;
+	background-position: center center;
+	background-size: 100px;*/
+}
+
+.number {
+	font-style: oblique;
+/*	font-weight: bold;*/
+	pointer-events: none;
+	position: absolute;
+	color: white;
+	opacity: 1;
+	-webkit-transition: opacity 0.33s linear;
+	font-size: 16px;
+}
+
+.bracket {
+	font-size: 30px;
+	font-weight: bold;
+	color: #4FA7E8;
+}
+
+.done {
+	font-size: 18px;
+	line-height: 30px;
+}
+
+.done-button {
+	position: absolute;
+	bottom: 0px;
+	left: 200px;
+}
+

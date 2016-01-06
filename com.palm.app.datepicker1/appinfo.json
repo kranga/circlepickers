@@ -1,0 +1,10 @@
+{
+	"id": "com.palm.app.datetime-testbed-fullcircle",
+	"version": "1.0.0",
+	"vendor": "enyo",
+	"type": "web",
+	"main": "index.html",
+	"title": "DateTime Testbed Full-Circle",
+	"icon": "icon.png",
+	"uiRevision": 2
+}

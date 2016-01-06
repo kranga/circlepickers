@@ -1,0 +1,13 @@
+date picker
+
+animate between integer values 
+taps on hours, minutes (underline should animate 1/6 second or less)
+ball should move for every minute
+snap to value should animate
+
+date picker 2
+
+fix ampm bug
+rotate by dragging circle not clicking ball
+taps on hours, minutes (underline should animate 1/6 second or less)
+snap to value should animate
